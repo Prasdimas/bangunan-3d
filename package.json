@@ -1,0 +1,17 @@
+{
+  "name": "matematika-3d",
+  "version": "1.0.0",
+  "description": "Pelajaran Matematika 3D dengan Three.js dan Canvas 2D",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
